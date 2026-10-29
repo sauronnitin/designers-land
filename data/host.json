@@ -48,7 +48,7 @@
  "likes": 25,
  "location": "San Francisco, CA",
  "name": "Nitin Sauran",
- "postCount": 44,
+ "postCount": 45,
  "profileUrl": "https://x.com/nitin_sauran",
  "schema": 1,
  "speech": "Hi X 👋 I'm Nitin, a product designer…",
@@ -82,10 +82,10 @@
    ],
    "imageSrc": "./data/media/2115843607760695516.jpg",
    "kind": "post",
-   "likes": 0,
+   "likes": 1,
    "mediaType": "video",
    "replies": 5,
-   "reposts": 9,
+   "reposts": 1,
    "text": "Hi X 👋 I'm Nitin, a product designer in SF, looking to connect with more designers.\n\nInspired by @kevin_t_ngo, my @bot built Designers Land 🌍 Reply and you become a character, free to walk around and meet the other designers here.\n\n@bot check this thread every 5 mins 👇 https://t.co/AuusP4GaRt",
    "url": "https://x.com/nitin_sauran/status/2115843607760695516"
   },
@@ -131,7 +131,7 @@
   }
  ],
  "userId": "49531792",
- "version": "cf7218ba2d09",
+ "version": "86e487c41586",
  "website": "https://www.nitinsauran.com",
  "websiteLabel": "nitinsauran.com"
 }
