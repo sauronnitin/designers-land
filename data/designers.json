@@ -1,5 +1,5 @@
 {
- "version": "2-17982b08",
+ "version": "2-7bdd8635",
  "designers": [
   {
    "name": "Noorullah Jamakzai",
@@ -128,6 +128,59 @@
      "text": "someone counted 209 gtm engineer job ads. 95% mention ai\n\nthe job used to be building lead lists by hand. now its getting ai to build them, and checking its work",
      "url": "https://x.com/itzSaasified/status/2114659129407004704"
     }
+   ],
+   "look": {
+    "style": "clay",
+    "rig": "hero",
+    "outfit": "jacket",
+    "hair": "short",
+    "wear": "headphones",
+    "glasses": "none",
+    "acc": "none",
+    "prop": "own",
+    "aura": "rise",
+    "colors": {
+     "body": "#2c2c31",
+     "trim": "#101013",
+     "hat": "#b7b5b5",
+     "rib": "#d32929",
+     "legs": "#3a3a40",
+     "skin": "#c9926e",
+     "hair": "#18141a",
+     "shoe": "#f2f1ee",
+     "sole": "#d32929"
+    },
+    "extras": [
+     "shirt",
+     "bomber",
+     "curls",
+     "beard",
+     "headset",
+     "chart"
+    ],
+    "summary": "Glossy soft clay: a black overshirt-bomber over a black tee with banner-red collar, cuffs, hem and soles, dark curls over a fade and a short beard, a call headset with a red mic, and a floating analytics card with blue daily bars and a red growth arrow."
+   },
+   "lookWhy": [
+    {
+     "text": "Black jacket over a dark tee, dark curls with a fade and a short beard, from his profile photo.",
+     "source": "https://x.com/itzSaasified",
+     "label": "X profile photo"
+    },
+    {
+     "text": "Red collar, cuffs, hem and soles: the red “sucks.” in his banner, “Your outreach sucks. Let me fix it.”",
+     "source": "https://x.com/itzSaasified",
+     "label": "X banner"
+    },
+    {
+     "text": "Headset with a red mic: he books about 20 sales calls a month on autopilot.",
+     "source": "https://x.com/itzSaasified/status/2115448475991380150",
+     "label": "Sales calls post"
+    },
+    {
+     "text": "The floating analytics card with blue daily bars and one big spike is his account chart, from his post on growing by engaging with the community.",
+     "source": "https://x.com/itzSaasified/status/2115858988747440587",
+     "label": "Growth post"
+    }
    ]
   },
   {
@@ -244,6 +297,60 @@
      "url": "https://x.com/ChicoLiu/status/2094865921122955755",
      "imageColors": [],
      "mediaType": null
+    }
+   ],
+   "look": {
+    "style": "clay",
+    "rig": "hero",
+    "outfit": "jacket",
+    "hair": "short",
+    "wear": "none",
+    "glasses": "none",
+    "acc": "none",
+    "prop": "own",
+    "aura": "sparkle",
+    "colors": {
+     "body": "#2c2648",
+     "trim": "#f4f3ee",
+     "hat": "#8a78c8",
+     "rib": "#f4f3ee",
+     "legs": "#24242a",
+     "skin": "#e6bc98",
+     "hair": "#1c181a",
+     "shoe": "#f4f3ee",
+     "sole": "#f6c428"
+    },
+    "extras": [
+     "stars",
+     "overshirt",
+     "swept",
+     "earbud",
+     "watch",
+     "ufopin",
+     "cuebic"
+    ],
+    "summary": "Glossy soft clay: a night-sky overshirt with stars and a faint Milky Way band open over a white shirt, swept dark hair, a white earbud and a black smartwatch, a tiny UFO pin, sunflower-yellow soles, and Cuebic floating at his shoulder."
+   },
+   "lookWhy": [
+    {
+     "text": "Night-sky overshirt with stars and a faint Milky Way band: the starfield banner on his X profile.",
+     "source": "https://x.com/ChicoLiu",
+     "label": "X banner"
+    },
+    {
+     "text": "White shirt, swept-back dark hair, a white earbud and a black smartwatch, straight from his profile photo.",
+     "source": "https://x.com/ChicoLiu",
+     "label": "X profile photo"
+    },
+    {
+     "text": "The cube at his shoulder is Cuebic, his portfolio's mood cube for long-distance couples (UX Design Awards 2024): flip it to share a mood. Its 12 dots are the time zones it tracks.",
+     "source": "https://www.chicoliu.com/cuebic",
+     "label": "Portfolio: Cuebic"
+    },
+    {
+     "text": "UFO pin for the 🛸 in his display name, and sunflower-yellow soles for the sunflowers behind him in his photo.",
+     "source": "https://x.com/ChicoLiu",
+     "label": "X profile"
     }
    ]
   }
