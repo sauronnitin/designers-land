@@ -1,5 +1,5 @@
 {
- "version": "1-025d0ecb",
+ "version": "2-17982b08",
  "designers": [
   {
    "name": "Noorullah Jamakzai",
@@ -127,6 +127,123 @@
      "reposts": 0,
      "text": "someone counted 209 gtm engineer job ads. 95% mention ai\n\nthe job used to be building lead lists by hand. now its getting ai to build them, and checking its work",
      "url": "https://x.com/itzSaasified/status/2114659129407004704"
+    }
+   ]
+  },
+  {
+   "name": "Chico Liu🛸",
+   "handle": "ChicoLiu",
+   "userId": "1326690024050536448",
+   "bio": "product designer, generalist",
+   "discipline": "Product Designer",
+   "location": "San Francisco, CA",
+   "profileUrl": "https://x.com/ChicoLiu",
+   "website": "https://www.chicoliu.com",
+   "websiteLabel": "chicoliu.com",
+   "followers": 56,
+   "following": 337,
+   "postCount": 119,
+   "joined": "2020-11-12T00:55:33.000Z",
+   "avatarSrc": "./data/designers/chicoliu/avatar.jpg",
+   "bannerSrc": "./data/designers/chicoliu/banner.jpg",
+   "avatarColors": [
+    "#424012",
+    "#6b491c",
+    "#be865b"
+   ],
+   "bannerColors": [
+    "#322c3a",
+    "#12121c"
+   ],
+   "feel": {
+    "mood": [
+     "playful",
+     "retro"
+    ],
+    "shapeLanguage": "rounded",
+    "texture": "flat photo",
+    "palette": [
+     "#424012",
+     "#6b491c",
+     "#be865b",
+     "#322c3a",
+     "#12121c"
+    ],
+    "mediaStyle": "photos; animated_gifs"
+   },
+   "keywords": [
+    "product design",
+    "generalist",
+    "3D"
+   ],
+   "latestPostAt": "2026-09-18T21:04:42.000Z",
+   "admission": "approved: bio 'product designer, generalist' + chicoliu.com, 2026-10-29",
+   "topPosts": [
+    {
+     "date": "2026-09-18T21:04:42.000Z",
+     "id": "2101054832761242089",
+     "kind": "post",
+     "likes": 0,
+     "replies": 0,
+     "reposts": 0,
+     "text": "oh no this will need id verification",
+     "url": "https://x.com/ChicoLiu/status/2101054832761242089",
+     "imageColors": [],
+     "mediaType": null
+    },
+    {
+     "date": "2026-09-18T20:54:57.000Z",
+     "id": "2101052378447577188",
+     "imageColors": [
+      "#0f1314",
+      "#312928",
+      "#859495",
+      "#656767"
+     ],
+     "imageSrc": "./data/designers/chicoliu/2101052378447577188.jpg",
+     "kind": "post",
+     "likes": 0,
+     "mediaType": "animated_gif",
+     "replies": 0,
+     "reposts": 0,
+     "text": "don’t look up",
+     "url": "https://x.com/ChicoLiu/status/2101052378447577188"
+    },
+    {
+     "date": "2026-09-16T19:50:05.000Z",
+     "id": "2100311277625294992",
+     "kind": "post",
+     "likes": 1,
+     "replies": 1,
+     "reposts": 0,
+     "text": "woahh this is incredible",
+     "url": "https://x.com/ChicoLiu/status/2100311277625294992",
+     "imageColors": [],
+     "mediaType": null
+    },
+    {
+     "date": "2026-09-07T22:19:23.000Z",
+     "id": "2097087362518175854",
+     "kind": "post",
+     "likes": 0,
+     "replies": 0,
+     "reposts": 0,
+     "text": "steve jobs once said that customers sometimes don’t know what they want until you put it in front of them",
+     "url": "https://x.com/ChicoLiu/status/2097087362518175854",
+     "imageColors": [],
+     "mediaType": null
+    },
+    {
+     "date": "2026-09-01T19:12:10.000Z",
+     "id": "2094865921122955755",
+     "kind": "post",
+     "likes": 0,
+     "replies": 0,
+     "reposts": 0,
+     "text": "takes me back to when i wanted to become a 3d artist in college trying and failing to build environments as good looking as this and now fable can do it i should be happy",
+     "url": "https://x.com/ChicoLiu/status/2094865921122955755",
+     "imageColors": [],
+     "mediaType": null
     }
    ]
   }
