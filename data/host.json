@@ -16,8 +16,8 @@
  "feel": {
   "mediaStyle": "halftone ink portrait in two inks; video stills",
   "mood": [
-   "playful",
    "futuristic",
+   "playful",
    "warm",
    "retro"
   ],
@@ -44,14 +44,14 @@
   "San Francisco",
   "design"
  ],
- "latestPostAt": "2026-10-29T16:30:01.000Z",
+ "latestPostAt": "2026-10-29T22:10:57.000Z",
  "likes": 25,
  "location": "San Francisco, CA",
  "name": "Nitin Sauran",
- "postCount": 49,
+ "postCount": 52,
  "profileUrl": "https://x.com/nitin_sauran",
  "schema": 1,
- "speech": "Hi X 👋 I'm Nitin, a product designer…",
+ "speech": "I have been tweaking a bit as i am…",
  "topPosts": [
   {
    "date": "2026-10-13T16:05:00.000Z",
@@ -100,16 +100,6 @@
    "url": "https://x.com/nitin_sauran/status/2110490199428067388"
   },
   {
-   "date": "2026-10-13T16:05:00.000Z",
-   "id": "2110039107024101804",
-   "kind": "thread",
-   "likes": 5,
-   "replies": 0,
-   "reposts": 1,
-   "text": "Play it here: https://t.co/UbkADw7wdU\n\nOne big screen, up to 8 players, no app.\n\nThanks @soyrichlira @petroshong @CathyChang00 and Coco Wang for hosting, and the Claude Community team for running it. \n\nIt was a really fun experience. \n\nPS: Built entirely with #ClaudeCode",
-   "url": "https://x.com/nitin_sauran/status/2110039107024101804"
-  },
-  {
    "date": "2026-10-28T15:00:02.000Z",
    "id": "2115458574025707525",
    "kind": "post",
@@ -118,6 +108,16 @@
    "reposts": 0,
    "text": "There are 200,000+ AI tools. Directories rank them by popularity.\n\nSkillScout ranks them by you. Your AI writes a short profile of how you work, SkillScout scores ~22,000 tools against your gaps and hands back a few, with install steps.\n\nFree, no account.\nhttps://t.co/d35E0zn3PD",
    "url": "https://x.com/nitin_sauran/status/2115458574025707525"
+  },
+  {
+   "date": "2026-10-29T20:03:23.000Z",
+   "id": "2115897306004529503",
+   "kind": "reply",
+   "likes": 2,
+   "replies": 0,
+   "reposts": 0,
+   "text": "Even the lighting and color grading is so Claude",
+   "url": "https://x.com/nitin_sauran/status/2115897306004529503"
   },
   {
    "date": "2026-10-29T21:12:44.000Z",
@@ -131,7 +131,7 @@
   }
  ],
  "userId": "49531792",
- "version": "d0018ff28303",
+ "version": "3cd40a4ff1ad",
  "website": "https://www.nitinsauran.com",
  "websiteLabel": "nitinsauran.com"
 }
