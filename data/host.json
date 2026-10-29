@@ -16,8 +16,8 @@
  "feel": {
   "mediaStyle": "halftone ink portrait in two inks; video stills",
   "mood": [
-   "futuristic",
    "playful",
+   "futuristic",
    "warm",
    "retro"
   ],
@@ -31,8 +31,8 @@
   "shapeLanguage": "hand-drawn ink lines",
   "texture": "halftone two inks"
  },
- "followers": 28,
- "following": 78,
+ "followers": 30,
+ "following": 80,
  "handle": "nitin_sauran",
  "joined": "2009-06-22T04:07:44.000Z",
  "keywords": [
@@ -44,15 +44,53 @@
   "San Francisco",
   "design"
  ],
- "latestPostAt": "2026-10-28T15:00:02.000Z",
- "likes": 21,
+ "latestPostAt": "2026-10-29T16:30:01.000Z",
+ "likes": 22,
  "location": "San Francisco, CA",
  "name": "Nitin Sauran",
- "postCount": 27,
+ "postCount": 32,
  "profileUrl": "https://x.com/nitin_sauran",
  "schema": 1,
- "speech": "There are 200,000+ AI tools.",
+ "speech": "Hi X 👋 I'm Nitin, a product designer…",
  "topPosts": [
+  {
+   "date": "2026-10-29T16:52:30.000Z",
+   "id": "2115849266421997691",
+   "kind": "thread",
+   "likes": 0,
+   "replies": 0,
+   "reposts": 0,
+   "text": "Interact here https://t.co/9UsHMText5",
+   "url": "https://x.com/nitin_sauran/status/2115849266421997691"
+  },
+  {
+   "date": "2026-10-29T16:34:45.000Z",
+   "id": "2115844799664410791",
+   "kind": "thread",
+   "likes": 0,
+   "replies": 0,
+   "reposts": 0,
+   "text": "Some designers whose work I learn from, come say hi in Designers Land 👋\n@emilkowalski @ryolu_ @karrisaarinen @mds @soleio @federicovillaw \nReply and you'll get your own character 🌍",
+   "url": "https://x.com/nitin_sauran/status/2115844799664410791"
+  },
+  {
+   "date": "2026-10-29T16:30:01.000Z",
+   "id": "2115843607760695516",
+   "imageColors": [
+    "#5cab4c",
+    "#bc8767",
+    "#3e3432",
+    "#cbb192"
+   ],
+   "imageSrc": "./data/media/2115843607760695516.jpg",
+   "kind": "post",
+   "likes": 0,
+   "mediaType": "video",
+   "replies": 4,
+   "reposts": 2,
+   "text": "Hi X 👋 I'm Nitin, a product designer in SF, looking to connect with more designers.\n\nInspired by @kevin_t_ngo, my @bot built Designers Land 🌍 Reply and you become a character, free to walk around and meet the other designers here.\n\n@bot check this thread every 5 mins 👇 https://t.co/AuusP4GaRt",
+   "url": "https://x.com/nitin_sauran/status/2115843607760695516"
+  },
   {
    "date": "2026-10-28T19:40:37.000Z",
    "id": "2115529186333081668",
@@ -72,26 +110,6 @@
    "reposts": 0,
    "text": "There are 200,000+ AI tools. Directories rank them by popularity.\n\nSkillScout ranks them by you. Your AI writes a short profile of how you work, SkillScout scores ~22,000 tools against your gaps and hands back a few, with install steps.\n\nFree, no account.\nhttps://t.co/d35E0zn3PD",
    "url": "https://x.com/nitin_sauran/status/2115458574025707525"
-  },
-  {
-   "date": "2026-10-14T21:57:29.000Z",
-   "id": "2110490199428067388",
-   "kind": "reply",
-   "likes": 5,
-   "replies": 1,
-   "reposts": 0,
-   "text": "correct the work it did 😅 although in fair honesty, its getting too good. esp Opus 5.5, it just one shot things",
-   "url": "https://x.com/nitin_sauran/status/2110490199428067388"
-  },
-  {
-   "date": "2026-10-14T18:28:29.000Z",
-   "id": "2110437604282016027",
-   "kind": "reply",
-   "likes": 1,
-   "replies": 0,
-   "reposts": 0,
-   "text": "I used it to fetch real topo data of SF, Live city data, weather, Muni positions and SF events like Bay to Breakers, Pride etc that drives the chaos and ideas for other content like local jokes and cultural elements that defines San Francisco",
-   "url": "https://x.com/nitin_sauran/status/2110437604282016027"
   },
   {
    "date": "2026-10-13T16:05:00.000Z",
@@ -123,7 +141,7 @@
   }
  ],
  "userId": "49531792",
- "version": "d56bb075ea88",
+ "version": "c10b65559705",
  "website": "https://www.nitinsauran.com",
  "websiteLabel": "nitinsauran.com"
 }
