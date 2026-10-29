@@ -45,6 +45,8 @@ Nitin stands at the center, next to a giant celebratory AI prompt box: "make it 
 
 A gold "DESIGNERS LAND" monument with sweeping searchlights stands next to Nitin.
 
+A live chatroom for visitors, and a DM-only star-rated feedback card for Nitin.
+
 Walk up to Nitin and he waves and opens his card, with X and his website.
 
 About 10 designer-meme artifacts are scattered around:
