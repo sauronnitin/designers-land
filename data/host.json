@@ -54,34 +54,22 @@
  "speech": "Hi X 👋 I'm Nitin, a product designer…",
  "topPosts": [
   {
-   "date": "2026-10-29T17:45:07.000Z",
-   "id": "2115862510410813778",
-   "kind": "thread",
-   "likes": 0,
-   "replies": 0,
-   "reposts": 0,
-   "text": "A repost would also help ✌️",
-   "url": "https://x.com/nitin_sauran/status/2115862510410813778"
-  },
-  {
-   "date": "2026-10-29T16:52:30.000Z",
-   "id": "2115849266421997691",
-   "kind": "thread",
-   "likes": 0,
-   "replies": 0,
-   "reposts": 0,
-   "text": "Interact here https://t.co/9UsHMText5",
-   "url": "https://x.com/nitin_sauran/status/2115849266421997691"
-  },
-  {
-   "date": "2026-10-29T16:34:45.000Z",
-   "id": "2115844799664410791",
-   "kind": "thread",
-   "likes": 0,
-   "replies": 0,
-   "reposts": 0,
-   "text": "Some designers whose work I learn from, come say hi in Designers Land 👋\n@emilkowalski @ryolu_ @karrisaarinen @mds @soleio @federicovillaw \nReply and you'll get your own character 🌍",
-   "url": "https://x.com/nitin_sauran/status/2115844799664410791"
+   "date": "2026-10-13T16:05:00.000Z",
+   "id": "2110039106659160539",
+   "imageColors": [
+    "#297d95",
+    "#a17c56",
+    "#e7e18c",
+    "#614f46"
+   ],
+   "imageSrc": "./data/media/2110039106659160539.jpg",
+   "kind": "post",
+   "likes": 13,
+   "mediaType": "video",
+   "replies": 6,
+   "reposts": 6,
+   "text": "My game was one of the winners in Claude for Games Build Day in SF 🛸\n\nMoo Over SF: scan a QR and your phone becomes a UFO controller. 60 seconds to beam up more cows than your friends.\n\nBuilt with Claude Code and @apify.\n\nWhat else in SF should ruin a round?\n\n@claudeai #gamedev https://t.co/SIwEoqSG2N",
+   "url": "https://x.com/nitin_sauran/status/2110039106659160539"
   },
   {
    "date": "2026-10-29T16:30:01.000Z",
@@ -102,24 +90,14 @@
    "url": "https://x.com/nitin_sauran/status/2115843607760695516"
   },
   {
-   "date": "2026-10-28T19:40:37.000Z",
-   "id": "2115529186333081668",
-   "kind": "thread",
-   "likes": 0,
-   "replies": 0,
+   "date": "2026-10-14T21:57:29.000Z",
+   "id": "2110490199428067388",
+   "kind": "reply",
+   "likes": 5,
+   "replies": 1,
    "reposts": 0,
-   "text": "would love some feedback from the veterans of designs",
-   "url": "https://x.com/nitin_sauran/status/2115529186333081668"
-  },
-  {
-   "date": "2026-10-28T15:00:02.000Z",
-   "id": "2115458574025707525",
-   "kind": "post",
-   "likes": 1,
-   "replies": 2,
-   "reposts": 0,
-   "text": "There are 200,000+ AI tools. Directories rank them by popularity.\n\nSkillScout ranks them by you. Your AI writes a short profile of how you work, SkillScout scores ~22,000 tools against your gaps and hands back a few, with install steps.\n\nFree, no account.\nhttps://t.co/d35E0zn3PD",
-   "url": "https://x.com/nitin_sauran/status/2115458574025707525"
+   "text": "correct the work it did 😅 although in fair honesty, its getting too good. esp Opus 5.5, it just one shot things",
+   "url": "https://x.com/nitin_sauran/status/2110490199428067388"
   },
   {
    "date": "2026-10-13T16:05:00.000Z",
@@ -132,26 +110,28 @@
    "url": "https://x.com/nitin_sauran/status/2110039107024101804"
   },
   {
-   "date": "2026-10-13T16:05:00.000Z",
-   "id": "2110039106659160539",
-   "imageColors": [
-    "#297d95",
-    "#a17c56",
-    "#e7e18c",
-    "#614f46"
-   ],
-   "imageSrc": "./data/media/2110039106659160539.jpg",
+   "date": "2026-10-28T15:00:02.000Z",
+   "id": "2115458574025707525",
    "kind": "post",
-   "likes": 13,
-   "mediaType": "video",
-   "replies": 6,
-   "reposts": 6,
-   "text": "My game was one of the winners in Claude for Games Build Day in SF 🛸\n\nMoo Over SF: scan a QR and your phone becomes a UFO controller. 60 seconds to beam up more cows than your friends.\n\nBuilt with Claude Code and @apify.\n\nWhat else in SF should ruin a round?\n\n@claudeai #gamedev https://t.co/SIwEoqSG2N",
-   "url": "https://x.com/nitin_sauran/status/2110039106659160539"
+   "likes": 1,
+   "replies": 2,
+   "reposts": 0,
+   "text": "There are 200,000+ AI tools. Directories rank them by popularity.\n\nSkillScout ranks them by you. Your AI writes a short profile of how you work, SkillScout scores ~22,000 tools against your gaps and hands back a few, with install steps.\n\nFree, no account.\nhttps://t.co/d35E0zn3PD",
+   "url": "https://x.com/nitin_sauran/status/2115458574025707525"
+  },
+  {
+   "date": "2026-10-29T17:44:28.000Z",
+   "id": "2115862346346398055",
+   "kind": "reply",
+   "likes": 0,
+   "replies": 1,
+   "reposts": 0,
+   "text": "Make some design, post it on your profile and let my bot introduce you to more creatives and builders",
+   "url": "https://x.com/nitin_sauran/status/2115862346346398055"
   }
  ],
  "userId": "49531792",
- "version": "c6d4d4074356",
+ "version": "cf7218ba2d09",
  "website": "https://www.nitinsauran.com",
  "websiteLabel": "nitinsauran.com"
 }
