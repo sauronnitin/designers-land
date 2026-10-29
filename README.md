@@ -33,39 +33,32 @@
 
 Every designer who replies to Nitin's intro post on X lands in an endless open-world meadow as a unique 3D character, styled from their public profile.
 
-The 15 designers currently shown are made-up examples. Nitin is the host.
+The world starts with Nitin and grows as real designers join, with a live counter.
 
 ## 💬 How to join
 
 Reply to [@nitin_sauran](https://x.com/nitin_sauran)'s intro post on X. Real designers with design work on their timeline get added and receive their personal link.
 
-<p align="center">
-  <img src="docs/me.png" alt="An example personal visit: a made-up designer stands in the meadow with their card open" width="100%">
-</p>
-
-<p align="center"><sub>A personal visit. The designers in this shot are examples.</sub></p>
-
 ## 🌱 A living land
 
-Every visitor walks a character with WASD or the arrow keys.
+Nitin stands at the center, next to a giant celebratory AI prompt box: "make it look like Apple but different". It bursts into confetti.
 
-The live host card is synced from X through [`data/host.json`](data/host.json), refreshed hourly.
+Walk up to Nitin and he waves and opens his card, with X and his website.
 
-The land grows as more designers join. A new landmark unlocks about every 10 people:
+About 10 designer-meme artifacts are scattered around:
 
-- Lasso Ranch
-- Bezier Bridge
-- Gradient Mesh Hot Spring
-- Color Picker Orchard
-- 8pt Grid Garden
-- Dark Mode Cave
-- Pen Tool Totem
-- Component Library Silo
-- Contrast Lighthouse
-- Stock Photo Campfire
-- Moodboard Meadow
+- Moving Day
+- Purple Gradient Monolith
+- Make It Pop
+- Just One Small Change
+- Pixel Perfect vs Close Enough
+- The Exposure Jar
+- Full-Stack Designer Signpost
+- The Rectangle Benchmark
+- Liquid Glass Puddle
+- The LIVE Badge
 
-The terrain is lusher, with hills, dips, ponds, and a stream.
+You can swim in the ponds and the stream. Picnic blankets are trampolines. Day and night follow the visitor's local time.
 
 ## 🕹️ Controls
 
@@ -73,12 +66,13 @@ The terrain is lusher, with hills, dips, ponds, and a stream.
 | --- | --- |
 | Orbit | Drag |
 | Zoom | Scroll or pinch |
-| Move the camera | WASD, the arrow keys, or the on-screen pad |
-| Open a designer | Click them, or pick one in Focus, to open their card |
-| Landmark jokes | Click the fountain, Nitin's Oak, the Undo Pond, or Comic Sans Jail |
-| Day / Night | Toggle in the top bar |
+| Walk | WASD or the arrow keys |
+| Sprint | Shift |
+| Jump | Space |
+| Play | F |
+| Speed | Slider from 0.5x to 4x |
+| Open a designer | Click them to open their card |
 | Quality | Under More |
-| Your own character | Open your personal `#me=` link and walk with WASD. Press F or Space to interact. Nothing is saved. |
 
 ## 🌸 Things to play with
 
@@ -89,7 +83,7 @@ The terrain is lusher, with hills, dips, ponds, and a stream.
 - Birds
 - Stone skipping
 - Sitting
-- Bouncy blankets
+- Picnic blankets, which are trampolines
 - The swing on Nitin's Oak
 - Crit notes
 
