@@ -45,6 +45,28 @@ Reply to [@nitin_sauran](https://x.com/nitin_sauran)'s intro post on X. Real des
 
 <p align="center"><sub>A personal visit. The designers in this shot are examples.</sub></p>
 
+## 🌱 A living land
+
+Every visitor walks a character with WASD or the arrow keys.
+
+The live host card is synced from X through [`data/host.json`](data/host.json), refreshed hourly.
+
+The land grows as more designers join. A new landmark unlocks about every 10 people:
+
+- Lasso Ranch
+- Bezier Bridge
+- Gradient Mesh Hot Spring
+- Color Picker Orchard
+- 8pt Grid Garden
+- Dark Mode Cave
+- Pen Tool Totem
+- Component Library Silo
+- Contrast Lighthouse
+- Stock Photo Campfire
+- Moodboard Meadow
+
+The terrain is lusher, with hills, dips, ponds, and a stream.
+
 ## 🕹️ Controls
 
 | | |
