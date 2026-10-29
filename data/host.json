@@ -11,7 +11,7 @@
   "#cbbcb1"
  ],
  "bannerSrc": "./data/banner.jpg",
- "bio": "Product Designer · Music enthusiast",
+ "bio": "Product Designer · Music enthusiast\nhttps://t.co/yPfdoe6TfD\nhttps://t.co/syGE1XiX78",
  "discipline": "Product Designer",
  "feel": {
   "mediaStyle": "halftone ink portrait in two inks; video stills",
@@ -48,7 +48,7 @@
  "likes": 25,
  "location": "San Francisco, CA",
  "name": "Nitin Sauran",
- "postCount": 45,
+ "postCount": 49,
  "profileUrl": "https://x.com/nitin_sauran",
  "schema": 1,
  "speech": "Hi X 👋 I'm Nitin, a product designer…",
@@ -84,7 +84,7 @@
    "kind": "post",
    "likes": 1,
    "mediaType": "video",
-   "replies": 5,
+   "replies": 6,
    "reposts": 1,
    "text": "Hi X 👋 I'm Nitin, a product designer in SF, looking to connect with more designers.\n\nInspired by @kevin_t_ngo, my @bot built Designers Land 🌍 Reply and you become a character, free to walk around and meet the other designers here.\n\n@bot check this thread every 5 mins 👇 https://t.co/AuusP4GaRt",
    "url": "https://x.com/nitin_sauran/status/2115843607760695516"
@@ -120,18 +120,18 @@
    "url": "https://x.com/nitin_sauran/status/2115458574025707525"
   },
   {
-   "date": "2026-10-29T17:44:28.000Z",
-   "id": "2115862346346398055",
+   "date": "2026-10-29T21:12:44.000Z",
+   "id": "2115914755676541116",
    "kind": "reply",
    "likes": 0,
    "replies": 1,
    "reposts": 0,
-   "text": "Make some design, post it on your profile and let my bot introduce you to more creatives and builders",
-   "url": "https://x.com/nitin_sauran/status/2115862346346398055"
+   "text": "you'll have to wait for the Grok bot limit reset 😂. Not for long , it should be available at 3pm today. Thanks for being patient ✌️",
+   "url": "https://x.com/nitin_sauran/status/2115914755676541116"
   }
  ],
  "userId": "49531792",
- "version": "86e487c41586",
+ "version": "d0018ff28303",
  "website": "https://www.nitinsauran.com",
  "websiteLabel": "nitinsauran.com"
 }
