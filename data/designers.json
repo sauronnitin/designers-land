@@ -1,1 +1,134 @@
-{"version":"0","designers":[]}
+{
+ "version": "1-025d0ecb",
+ "designers": [
+  {
+   "name": "Noorullah Jamakzai",
+   "handle": "itzSaasified",
+   "userId": "2018088396841734144",
+   "bio": "Linkedify.net | 25k mrr · Arnies.ai | $600 mrr · Builder, marketer - making outbound easy",
+   "discipline": "Builder, marketer - making outbound easy",
+   "location": "United Kingdom",
+   "profileUrl": "https://x.com/itzSaasified",
+   "website": "https://arnies.ai",
+   "websiteLabel": "arnies.ai",
+   "followers": 2212,
+   "following": 2967,
+   "postCount": 5288,
+   "joined": "2026-02-01T22:25:48.000Z",
+   "avatarSrc": "./data/designers/itzsaasified/avatar.jpg",
+   "bannerSrc": "./data/designers/itzsaasified/banner.jpg",
+   "avatarColors": [
+    "#232026",
+    "#a9abac",
+    "#7b615a"
+   ],
+   "bannerColors": [
+    "#131313",
+    "#d32929",
+    "#b7b5b5"
+   ],
+   "feel": {
+    "mood": [
+     "bold",
+     "futuristic",
+     "warm"
+    ],
+    "shapeLanguage": "sharp",
+    "texture": "flat photo",
+    "palette": [
+     "#232026",
+     "#d32929",
+     "#a9abac",
+     "#7b615a",
+     "#131313"
+    ],
+    "mediaStyle": "photos"
+   },
+   "keywords": [
+    "outbound",
+    "AI tools",
+    "growth"
+   ],
+   "latestPostAt": "2026-10-29T17:31:08.000Z",
+   "admission": "Nitin override (glimpse), 2026-10-29",
+   "topPosts": [
+    {
+     "date": "2026-10-29T17:31:08.000Z",
+     "id": "2115858988747440587",
+     "imageColors": [
+      "#141414"
+     ],
+     "imageSrc": "./data/designers/itzsaasified/2115858988747440587.jpg",
+     "kind": "post",
+     "likes": 0,
+     "mediaType": "photo",
+     "replies": 0,
+     "reposts": 0,
+     "text": "It's pretty insane the amount of growth we've experience just by engaging with our community\n\nYou can see the trendline here clearly, the less I engaged with the platform, the less growth I receive.\n\nI think x is a game of engagement, engage with more people, provide real value",
+     "url": "https://x.com/itzSaasified/status/2115858988747440587"
+    },
+    {
+     "date": "2026-10-28T14:19:54.000Z",
+     "id": "2115448475991380150",
+     "imageColors": [
+      "#07090c",
+      "#f2f1ec",
+      "#918d8e"
+     ],
+     "imageSrc": "./data/designers/itzsaasified/2115448475991380150.jpg",
+     "kind": "post",
+     "likes": 2,
+     "mediaType": "photo",
+     "replies": 5,
+     "reposts": 0,
+     "text": "we book about 20 sales calls a month on autopilot using grokbot. i just check a few sample leads before each campaign goes out...\n\none grok bot runs it with arnies. it comes up with the campaign ideas and writes every message\n\nhere's the whole setup, step by step 👇",
+     "url": "https://x.com/itzSaasified/status/2115448475991380150"
+    },
+    {
+     "date": "2026-10-27T12:32:03.000Z",
+     "id": "2115058946327318759",
+     "kind": "post",
+     "likes": 5,
+     "replies": 2,
+     "reposts": 0,
+     "text": "Businesses can run on compute now",
+     "url": "https://x.com/itzSaasified/status/2115058946327318759",
+     "imageColors": [],
+     "mediaType": null
+    },
+    {
+     "date": "2026-10-26T11:36:52.000Z",
+     "id": "2114682672333344831",
+     "imageColors": [
+      "#f4f5f7",
+      "#d3c9bf"
+     ],
+     "imageSrc": "./data/designers/itzsaasified/2114682672333344831.jpg",
+     "kind": "post",
+     "likes": 5,
+     "mediaType": "photo",
+     "replies": 7,
+     "reposts": 0,
+     "text": "whats a good cold email reply rate?\n\ndepends whos counting. some reports count out of office auto replies. some only count people who were actually interested\n\nthats why you see anything from 2% to 3.4% called \"average\"",
+     "url": "https://x.com/itzSaasified/status/2114682672333344831"
+    },
+    {
+     "date": "2026-10-26T10:03:19.000Z",
+     "id": "2114659129407004704",
+     "imageColors": [
+      "#f4f5f7",
+      "#cac4bc"
+     ],
+     "imageSrc": "./data/designers/itzsaasified/2114659129407004704.jpg",
+     "kind": "post",
+     "likes": 3,
+     "mediaType": "photo",
+     "replies": 4,
+     "reposts": 0,
+     "text": "someone counted 209 gtm engineer job ads. 95% mention ai\n\nthe job used to be building lead lists by hand. now its getting ai to build them, and checking its work",
+     "url": "https://x.com/itzSaasified/status/2114659129407004704"
+    }
+   ]
+  }
+ ]
+}
