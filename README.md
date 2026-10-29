@@ -43,6 +43,8 @@ Reply to [@nitin_sauran](https://x.com/nitin_sauran)'s intro post on X. Real des
 
 Nitin stands at the center, next to a giant celebratory AI prompt box: "make it look like Apple but different". It bursts into confetti.
 
+A gold "DESIGNERS LAND" monument with sweeping searchlights stands next to Nitin.
+
 Walk up to Nitin and he waves and opens his card, with X and his website.
 
 About 10 designer-meme artifacts are scattered around:
