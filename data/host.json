@@ -1,0 +1,122 @@
+{
+ "avatarColors": [
+  "#97e29f",
+  "#28338e",
+  "#d4f0d2"
+ ],
+ "avatarSrc": "./data/avatar.jpg",
+ "bannerColors": [
+  "#f8ead1",
+  "#6a718c",
+  "#cbbcb1"
+ ],
+ "bio": "Product Designer · Music enthusiast",
+ "discipline": "Product Designer",
+ "feel": {
+  "mediaStyle": "halftone ink portrait in two inks; video stills",
+  "mood": [
+   "futuristic",
+   "playful",
+   "warm",
+   "retro"
+  ],
+  "palette": [
+   "#97e29f",
+   "#28338e",
+   "#d4f0d2",
+   "#f8ead1",
+   "#6a718c"
+  ],
+  "shapeLanguage": "hand-drawn ink lines",
+  "texture": "halftone two inks"
+ },
+ "followers": 28,
+ "handle": "nitin_sauran",
+ "keywords": [
+  "product design",
+  "games",
+  "AI tools",
+  "music",
+  "Claude Code",
+  "San Francisco",
+  "design"
+ ],
+ "latestPostAt": "2026-10-28T15:00:02.000Z",
+ "location": "San Francisco, CA",
+ "name": "Nitin Sauran",
+ "postCount": 27,
+ "profileUrl": "https://x.com/nitin_sauran",
+ "schema": 1,
+ "speech": "There are 200,000+ AI tools.",
+ "topPosts": [
+  {
+   "date": "2026-10-28T19:40:37.000Z",
+   "id": "2115529186333081668",
+   "kind": "thread",
+   "likes": 0,
+   "replies": 0,
+   "reposts": 0,
+   "text": "would love some feedback from the veterans of designs",
+   "url": "https://x.com/nitin_sauran/status/2115529186333081668"
+  },
+  {
+   "date": "2026-10-28T15:00:02.000Z",
+   "id": "2115458574025707525",
+   "kind": "post",
+   "likes": 1,
+   "replies": 2,
+   "reposts": 0,
+   "text": "There are 200,000+ AI tools. Directories rank them by popularity.\n\nSkillScout ranks them by you. Your AI writes a short profile of how you work, SkillScout scores ~22,000 tools against your gaps and hands back a few, with install steps.\n\nFree, no account.\nhttps://t.co/d35E0zn3PD",
+   "url": "https://x.com/nitin_sauran/status/2115458574025707525"
+  },
+  {
+   "date": "2026-10-14T21:57:29.000Z",
+   "id": "2110490199428067388",
+   "kind": "reply",
+   "likes": 5,
+   "replies": 1,
+   "reposts": 0,
+   "text": "correct the work it did 😅 although in fair honesty, its getting too good. esp Opus 5.5, it just one shot things",
+   "url": "https://x.com/nitin_sauran/status/2110490199428067388"
+  },
+  {
+   "date": "2026-10-14T18:28:29.000Z",
+   "id": "2110437604282016027",
+   "kind": "reply",
+   "likes": 1,
+   "replies": 0,
+   "reposts": 0,
+   "text": "I used it to fetch real topo data of SF, Live city data, weather, Muni positions and SF events like Bay to Breakers, Pride etc that drives the chaos and ideas for other content like local jokes and cultural elements that defines San Francisco",
+   "url": "https://x.com/nitin_sauran/status/2110437604282016027"
+  },
+  {
+   "date": "2026-10-13T16:05:00.000Z",
+   "id": "2110039107024101804",
+   "kind": "thread",
+   "likes": 5,
+   "replies": 0,
+   "reposts": 1,
+   "text": "Play it here: https://t.co/UbkADw7wdU\n\nOne big screen, up to 8 players, no app.\n\nThanks @soyrichlira @petroshong @CathyChang00 and Coco Wang for hosting, and the Claude Community team for running it. \n\nIt was a really fun experience. \n\nPS: Built entirely with #ClaudeCode",
+   "url": "https://x.com/nitin_sauran/status/2110039107024101804"
+  },
+  {
+   "date": "2026-10-13T16:05:00.000Z",
+   "id": "2110039106659160539",
+   "imageColors": [
+    "#297d95",
+    "#a17c56",
+    "#e7e18c",
+    "#614f46"
+   ],
+   "imageSrc": "./data/media/2110039106659160539.jpg",
+   "kind": "post",
+   "likes": 13,
+   "mediaType": "video",
+   "replies": 6,
+   "reposts": 6,
+   "text": "My game was one of the winners in Claude for Games Build Day in SF 🛸\n\nMoo Over SF: scan a QR and your phone becomes a UFO controller. 60 seconds to beam up more cows than your friends.\n\nBuilt with Claude Code and @apify.\n\nWhat else in SF should ruin a round?\n\n@claudeai #gamedev https://t.co/SIwEoqSG2N",
+   "url": "https://x.com/nitin_sauran/status/2110039106659160539"
+  }
+ ],
+ "version": "6e4b728eaba3"
+}
