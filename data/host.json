@@ -10,6 +10,7 @@
   "#6a718c",
   "#cbbcb1"
  ],
+ "bannerSrc": "./data/banner.jpg",
  "bio": "Product Designer · Music enthusiast",
  "discipline": "Product Designer",
  "feel": {
@@ -31,7 +32,9 @@
   "texture": "halftone two inks"
  },
  "followers": 28,
+ "following": 78,
  "handle": "nitin_sauran",
+ "joined": "2009-06-22T04:07:44.000Z",
  "keywords": [
   "product design",
   "games",
@@ -42,6 +45,7 @@
   "design"
  ],
  "latestPostAt": "2026-10-28T15:00:02.000Z",
+ "likes": 21,
  "location": "San Francisco, CA",
  "name": "Nitin Sauran",
  "postCount": 27,
@@ -118,5 +122,7 @@
    "url": "https://x.com/nitin_sauran/status/2110039106659160539"
   }
  ],
- "version": "6e4b728eaba3"
+ "version": "f327a247a8f6",
+ "website": "https://www.nitinsauran.com",
+ "websiteLabel": "nitinsauran.com"
 }
