@@ -14,7 +14,7 @@
  "bio": "Product Designer · Music enthusiast\nhttps://t.co/yPfdoe6TfD\nhttps://t.co/syGE1XiX78",
  "discipline": "Product Designer",
  "feel": {
-  "mediaStyle": "halftone ink portrait in two inks; video stills",
+  "mediaStyle": "halftone ink portrait in two inks; photos, video stills",
   "mood": [
    "futuristic",
    "playful",
@@ -31,7 +31,7 @@
   "shapeLanguage": "hand-drawn ink lines",
   "texture": "halftone two inks"
  },
- "followers": 35,
+ "followers": 36,
  "following": 86,
  "handle": "nitin_sauran",
  "joined": "2009-06-22T04:07:44.000Z",
@@ -45,10 +45,10 @@
   "design"
  ],
  "latestPostAt": "2026-10-29T22:10:57.000Z",
- "likes": 34,
+ "likes": 35,
  "location": "San Francisco, CA",
  "name": "Nitin Sauran",
- "postCount": 63,
+ "postCount": 65,
  "profileUrl": "https://x.com/nitin_sauran",
  "schema": 1,
  "speech": "I have been tweaking a bit as i am…",
@@ -64,7 +64,7 @@
    ],
    "imageSrc": "./data/media/2110039106659160539.jpg",
    "kind": "post",
-   "likes": 13,
+   "likes": 12,
    "mediaType": "video",
    "replies": 6,
    "reposts": 6,
@@ -82,7 +82,7 @@
    ],
    "imageSrc": "./data/media/2115843607760695516.jpg",
    "kind": "post",
-   "likes": 5,
+   "likes": 6,
    "mediaType": "video",
    "replies": 9,
    "reposts": 2,
@@ -90,14 +90,14 @@
    "url": "https://x.com/nitin_sauran/status/2115843607760695516"
   },
   {
-   "date": "2026-10-14T21:57:29.000Z",
-   "id": "2110490199428067388",
-   "kind": "reply",
-   "likes": 5,
-   "replies": 1,
+   "date": "2026-10-28T15:00:02.000Z",
+   "id": "2115458574025707525",
+   "kind": "post",
+   "likes": 2,
+   "replies": 2,
    "reposts": 0,
-   "text": "correct the work it did 😅 although in fair honesty, its getting too good. esp Opus 5.5, it just one shot things",
-   "url": "https://x.com/nitin_sauran/status/2110490199428067388"
+   "text": "There are 200,000+ AI tools. Directories rank them by popularity.\n\nSkillScout ranks them by you. Your AI writes a short profile of how you work, SkillScout scores ~22,000 tools against your gaps and hands back a few, with install steps.\n\nFree, no account.\nhttps://t.co/d35E0zn3PD",
+   "url": "https://x.com/nitin_sauran/status/2115458574025707525"
   },
   {
    "date": "2026-10-29T22:50:31.000Z",
@@ -110,16 +110,6 @@
    "url": "https://x.com/nitin_sauran/status/2115939365704835328"
   },
   {
-   "date": "2026-10-28T15:00:02.000Z",
-   "id": "2115458574025707525",
-   "kind": "post",
-   "likes": 1,
-   "replies": 2,
-   "reposts": 0,
-   "text": "There are 200,000+ AI tools. Directories rank them by popularity.\n\nSkillScout ranks them by you. Your AI writes a short profile of how you work, SkillScout scores ~22,000 tools against your gaps and hands back a few, with install steps.\n\nFree, no account.\nhttps://t.co/d35E0zn3PD",
-   "url": "https://x.com/nitin_sauran/status/2115458574025707525"
-  },
-  {
    "date": "2026-10-29T20:03:23.000Z",
    "id": "2115897306004529503",
    "kind": "reply",
@@ -128,10 +118,28 @@
    "reposts": 0,
    "text": "Even the lighting and color grading is so Claude",
    "url": "https://x.com/nitin_sauran/status/2115897306004529503"
+  },
+  {
+   "date": "2026-10-30T06:19:32.000Z",
+   "id": "2116052365015163002",
+   "imageColors": [
+    "#67b14f",
+    "#c3a274",
+    "#ded6b6",
+    "#544e45"
+   ],
+   "imageSrc": "./data/media/2116052365015163002.jpg",
+   "kind": "thread",
+   "likes": 1,
+   "mediaType": "photo",
+   "replies": 0,
+   "reposts": 0,
+   "text": "Shikha, a apology from my rendering engine 🙇‍♀️ v1 of you looked like a blurry ghost who lost her glasses. Fixed: clay style, your long dark hair, teal + rose from your photo, a heart-pulse clipboard for health-tech + a dashboard for your microinteractions. https://t.co/3txnj51sTy https://t.co/J9sOsv2Qke",
+   "url": "https://x.com/nitin_sauran/status/2116052365015163002"
   }
  ],
  "userId": "49531792",
- "version": "57bffe34a4f3",
+ "version": "c00707501f13",
  "website": "https://www.nitinsauran.com",
  "websiteLabel": "nitinsauran.com"
 }
