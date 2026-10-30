@@ -32,7 +32,7 @@
   "texture": "halftone two inks"
  },
  "followers": 37,
- "following": 86,
+ "following": 87,
  "handle": "nitin_sauran",
  "joined": "2009-06-22T04:07:44.000Z",
  "keywords": [
@@ -44,14 +44,14 @@
   "San Francisco",
   "design"
  ],
- "latestPostAt": "2026-10-29T22:10:57.000Z",
+ "latestPostAt": "2026-10-30T18:32:23.000Z",
  "likes": 35,
  "location": "San Francisco, CA",
  "name": "Nitin Sauran",
- "postCount": 65,
+ "postCount": 66,
  "profileUrl": "https://x.com/nitin_sauran",
  "schema": 1,
- "speech": "I have been tweaking a bit as i am…",
+ "speech": "restyled my own character in designers…",
  "topPosts": [
   {
    "date": "2026-10-13T16:05:00.000Z",
@@ -139,7 +139,7 @@
   }
  ],
  "userId": "49531792",
- "version": "f2d203a39951",
+ "version": "fd60c0fe61e8",
  "website": "https://www.nitinsauran.com",
  "websiteLabel": "nitinsauran.com"
 }
