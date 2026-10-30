@@ -1,5 +1,5 @@
 {
- "version": "5-2488f89d",
+ "version": "6-e64e6599",
  "designers": [
   {
    "name": "Noorullah Jamakzai",
@@ -784,6 +784,168 @@
      "text": "The animated chart is for 0→1 products and simplifying complex systems; she loves tiny motion, like the 'Get in touch' microinteraction she made.",
      "source": "https://x.com/iti226/status/2113919722949669347",
      "label": "Post: microinteractions"
+    }
+   ]
+  },
+  {
+   "name": "Hans™",
+   "handle": "HansHeidmann",
+   "userId": "499163854",
+   "bio": "",
+   "location": "Migrate from X to Moob 👉",
+   "profileUrl": "https://x.com/HansHeidmann",
+   "followers": 1914,
+   "following": 110,
+   "postCount": 136,
+   "joined": "2012-02-21T20:58:17.000Z",
+   "avatarColors": [
+    "#92b8dd",
+    "#382714",
+    "#6d5633"
+   ],
+   "bannerColors": [
+    "#040205",
+    "#395422",
+    "#547932"
+   ],
+   "feel": {
+    "mediaStyle": "halftone ink portrait; text posts",
+    "mood": [
+     "futuristic",
+     "energetic",
+     "thoughtful",
+     "retro"
+    ],
+    "palette": [
+     "#92b8dd",
+     "#382714",
+     "#6d5633",
+     "#040205",
+     "#395422"
+    ],
+    "shapeLanguage": "hand-drawn ink lines",
+    "texture": "halftone"
+   },
+   "keywords": [
+    "AI tools",
+    "music"
+   ],
+   "latestPostAt": "2026-10-30T21:54:36.000Z",
+   "website": "https://moob.app",
+   "websiteLabel": "moob.app",
+   "discipline": "Builder",
+   "avatarSrc": "./data/designers/hansheidmann/avatar.jpg",
+   "bannerSrc": "./data/designers/hansheidmann/banner.jpg",
+   "topPosts": [
+    {
+     "date": "2026-03-07T02:23:32.000Z",
+     "id": "2030107046394351667",
+     "kind": "reply",
+     "likes": 2,
+     "replies": 1,
+     "reposts": 0,
+     "text": "Lmao didn’t know grok responds to in-image mentions",
+     "url": "https://x.com/HansHeidmann/status/2030107046394351667"
+    },
+    {
+     "date": "2026-05-03T21:39:20.000Z",
+     "id": "2051054023458107697",
+     "kind": "reply",
+     "likes": 0,
+     "replies": 0,
+     "reposts": 1,
+     "text": "Let’s make something like this happen in San Diego?",
+     "url": "https://x.com/HansHeidmann/status/2051054023458107697"
+    },
+    {
+     "date": "2026-04-22T16:54:42.000Z",
+     "id": "2046996126423978047",
+     "kind": "reply",
+     "likes": 0,
+     "replies": 1,
+     "reposts": 0,
+     "text": "I wonder how similar the odds are to buying gas station lotto tix",
+     "url": "https://x.com/HansHeidmann/status/2046996126423978047"
+    },
+    {
+     "date": "2026-03-11T18:19:48.000Z",
+     "id": "2031797252831003027",
+     "kind": "reply",
+     "likes": 1,
+     "replies": 0,
+     "reposts": 0,
+     "text": "If just a handful of not-so-technical celebrities learn and share that the “now anyone can build anything with AI code agents” is false overhyped marketing, we can stop exponentially building more datacenters and burning more fuel for mostly useless “MVP” attempts, bots, etc",
+     "url": "https://x.com/HansHeidmann/status/2031797252831003027"
+    },
+    {
+     "date": "2026-10-30T21:54:36.000Z",
+     "id": "2116287680267104751",
+     "kind": "reply",
+     "likes": 0,
+     "replies": 0,
+     "reposts": 0,
+     "text": "Cool idea Nitin! Spawn me into vibe world @bot",
+     "url": "https://x.com/HansHeidmann/status/2116287680267104751"
+    },
+    {
+     "date": "2026-06-05T23:29:35.000Z",
+     "id": "2063040569392443732",
+     "kind": "reply",
+     "likes": 0,
+     "replies": 0,
+     "reposts": 0,
+     "text": "Strong marketing on Anthropics part there for sure! But, there’s definitely going to be side effects. Remember in 2020, all the AI devs warned that the tech would heavily disrupt the music and art industry, and that trend has become more exponential than linear at this point.",
+     "url": "https://x.com/HansHeidmann/status/2063040569392443732"
+    }
+   ],
+   "admission": "Nitin override (friend, building moob.app), 2026-10-30",
+   "look": {
+    "style": "clay",
+    "rig": "hero",
+    "outfit": "tee",
+    "hair": "long",
+    "wear": "none",
+    "glasses": "shades",
+    "acc": "none",
+    "prop": "ui",
+    "aura": "sparkle",
+    "colors": {
+     "body": "#f4f4f1",
+     "trim": "#6600cc",
+     "hat": "#39d353",
+     "rib": "#6600cc",
+     "legs": "#24324a",
+     "skin": "#c98a6c",
+     "hair": "#7a4f2a",
+     "shoe": "#6600cc",
+     "sole": "#39d353"
+    },
+    "extras": [
+     "swept",
+     "chart"
+    ],
+    "summary": "Glossy soft clay: long windswept brown hair, mirrored sport shades, a white beach tee with Moob-purple trim, a phone-app panel for the social app he's building, a little growth chart at his shoulder, and terminal-green soles and sparkles from his assembly-code banner."
+   },
+   "lookWhy": [
+    {
+     "text": "Long windswept brown hair, mirrored sport shades and a white tee: straight from his beach selfie profile photo.",
+     "source": "https://x.com/HansHeidmann",
+     "label": "X profile photo"
+    },
+    {
+     "text": "Terminal-green soles and sparkles: his banner is green-on-black assembly code from a bomb-defusing debugger. Builder energy.",
+     "source": "https://x.com/HansHeidmann",
+     "label": "X banner"
+    },
+    {
+     "text": "Nitin's friend, here as a builder: the app panel and purple trim are for Moob, the social app he's making (brand purple #6600cc).",
+     "source": "https://moob.app",
+     "label": "moob.app"
+    },
+    {
+     "text": "The growth chart is for indie-hacker dreams: Moob's views 'will also be in the millions soon 😅'.",
+     "source": "https://x.com/HansHeidmann/status/2034392255424070028",
+     "label": "Post: millions soon"
     }
    ]
   }
