@@ -1,5 +1,5 @@
 {
- "version": "5-fad741f8",
+ "version": "5-2488f89d",
  "designers": [
   {
    "name": "Noorullah Jamakzai",
@@ -738,49 +738,52 @@
    ],
    "admission": "approved: bio 'Product Designer | 0→1 products for startups, simplifying complex systems.', 2026-10-29",
    "look": {
-    "style": "wash",
+    "style": "clay",
     "rig": "hero",
+    "build": "slim",
     "outfit": "tee",
     "hair": "long",
     "wear": "none",
     "glasses": "none",
-    "acc": "none",
-    "prop": "ui",
+    "acc": "lanyard",
+    "prop": "care",
     "aura": "ring",
     "colors": {
-     "body": "#f3f0ea",
+     "body": "#f6f3ee",
      "trim": "#79b1be",
-     "hat": "#e6a6b4",
-     "rib": "#e6a6b4",
-     "legs": "#2a2833",
-     "skin": "#b8846a",
-     "hair": "#1c1416",
-     "shoe": "#f3f0ea",
-     "sole": "#79b1be"
+     "hat": "#e39aac",
+     "rib": "#e39aac",
+     "legs": "#3f5a7a",
+     "skin": "#b47a56",
+     "hair": "#1d1412",
+     "shoe": "#e39aac",
+     "sole": "#f6f3ee"
     },
-    "extras": [],
-    "summary": "Dreamy watercolour wash in teal and rose: long dark hair, a plain white tee, and a soft rose-and-teal double-exposure glow ringing her, with a little 'Get in touch' UI pill she tunes like a microinteraction."
+    "extras": [
+     "chart"
+    ],
+    "summary": "Glossy soft clay: long dark hair past her shoulders, a white tee, denim and rose sneakers, a teal startup lanyard and badge, a care clipboard with a floating heart-and-pulse screen, a small live dashboard chart at her shoulder, and a rose-and-teal ring around her feet."
    },
    "lookWhy": [
     {
-     "text": "Long dark hair, a plain white tee and the soft teal backdrop come straight from her profile photo.",
+     "text": "Long dark hair past her shoulders, warm brown skin and a plain white tee, straight from her profile photo.",
      "source": "https://x.com/iti226",
      "label": "X profile photo"
     },
     {
-     "text": "The washed-out rose-and-teal ring is the double-exposure blur in that same photo.",
+     "text": "Teal and rose come from that photo too: its soft teal backdrop and the rose double-exposure ghost, now her lanyard, sneakers and ring.",
      "source": "https://x.com/iti226",
      "label": "X profile photo"
     },
     {
-     "text": "The UI pill she holds is the 'Get in touch' button from her portfolio microinteraction she built with Claude.",
-     "source": "https://x.com/iti226/status/2113919722949669347",
-     "label": "Post: microinteractions"
-    },
-    {
-     "text": "Calm, tidy UI prop for her bio: 0→1 products for startups, simplifying complex systems, now in health-tech.",
+     "text": "Clipboard with a beating heart and pulse line, plus a startup badge: she's currently designing for a health-tech startup.",
      "source": "https://x.com/iti226",
      "label": "X bio"
+    },
+    {
+     "text": "The animated chart is for 0→1 products and simplifying complex systems; she loves tiny motion, like the 'Get in touch' microinteraction she made.",
+     "source": "https://x.com/iti226/status/2113919722949669347",
+     "label": "Post: microinteractions"
     }
    ]
   }
