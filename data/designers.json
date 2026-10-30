@@ -1,5 +1,5 @@
 {
- "version": "2-7bdd8635",
+ "version": "4-02c84019",
  "designers": [
   {
    "name": "Noorullah Jamakzai",
@@ -351,6 +351,291 @@
      "text": "UFO pin for the 🛸 in his display name, and sunflower-yellow soles for the sunflowers behind him in his photo.",
      "source": "https://x.com/ChicoLiu",
      "label": "X profile"
+    }
+   ]
+  },
+  {
+   "name": "Federico Villa",
+   "handle": "federicovillaw",
+   "userId": "2345892320",
+   "bio": "Design Lead @GoogleDeepmind. Graduate Professor at SVA, CCA. on design, and life.",
+   "discipline": "Design Lead",
+   "location": "NYC",
+   "profileUrl": "https://x.com/federicovillaw",
+   "followers": 1868,
+   "following": 1611,
+   "postCount": 4279,
+   "joined": "2014-02-15T23:42:13.000Z",
+   "avatarSrc": "./data/designers/federicovillaw/avatar.jpg",
+   "bannerSrc": "./data/designers/federicovillaw/banner.jpg",
+   "avatarColors": [
+    "#07090c",
+    "#453324",
+    "#79604c"
+   ],
+   "bannerColors": [
+    "#211d12",
+    "#645c3f",
+    "#423c24"
+   ],
+   "feel": {
+    "mediaStyle": "photos; animated_gifs",
+    "mood": [
+     "futuristic",
+     "warm",
+     "retro"
+    ],
+    "palette": [
+     "#07090c",
+     "#453324",
+     "#79604c",
+     "#211d12",
+     "#645c3f"
+    ],
+    "shapeLanguage": "rounded",
+    "texture": "flat photo"
+   },
+   "keywords": [
+    "design",
+    "AI design",
+    "Gemini"
+   ],
+   "latestPostAt": "2026-10-28T18:27:32.000Z",
+   "admission": "approved: bio 'Design Lead @GoogleDeepmind. Graduate Professor at SVA, CCA.', 2026-10-29",
+   "topPosts": [
+    {
+     "date": "2026-10-13T17:04:26.000Z",
+     "id": "2110054064146792536",
+     "kind": "post",
+     "likes": 11,
+     "replies": 1,
+     "reposts": 0,
+     "text": "Argon is here :)\nHappy making 🍀🌺 https://t.co/yhvDnLjYr8",
+     "url": "https://x.com/federicovillaw/status/2110054064146792536"
+    },
+    {
+     "date": "2026-10-09T15:27:02.000Z",
+     "id": "2108580002002325865",
+     "imageColors": [
+      "#3c4a22",
+      "#1c280f",
+      "#6f93c0",
+      "#637d75"
+     ],
+     "imageSrc": "./data/designers/federicovillaw/2108580002002325865.jpg",
+     "kind": "post",
+     "likes": 7,
+     "mediaType": "photo",
+     "replies": 2,
+     "reposts": 0,
+     "text": "Most of society doesn't yet comprehend how much the phenomenon of decompiling together with virtually free intelligence will start to reveal\n\nabout our systems\nabout higher powers intentions\nabout decision making\nabout the difficulty of creation\nabout network effects\nabout the https://t.co/eNGZOfpihx",
+     "url": "https://x.com/federicovillaw/status/2108580002002325865"
+    },
+    {
+     "date": "2026-10-06T16:32:07.000Z",
+     "id": "2107509214796992603",
+     "imageColors": [
+      "#fefbf0",
+      "#f07c7e"
+     ],
+     "imageSrc": "./data/designers/federicovillaw/2107509214796992603.jpg",
+     "kind": "post",
+     "likes": 7,
+     "mediaType": "animated_gif",
+     "replies": 1,
+     "reposts": 1,
+     "text": "✨ New AIDesignFieldGuide Interview Out!\n\nThis month we sat down with @meaghaneschoi to discuss the origins of claude code, how they found conviction despite early headwinds and the emerging archetypes of designers  \n\nMay the title act as a constant reminder to us all 🤘🏼 https://t.co/Fm0fmjVgT3",
+     "url": "https://x.com/federicovillaw/status/2107509214796992603"
+    },
+    {
+     "date": "2026-10-28T18:27:32.000Z",
+     "id": "2115510795308081389",
+     "kind": "post",
+     "likes": 5,
+     "replies": 1,
+     "reposts": 0,
+     "text": "Say hello to Gemini Carbon! 🌬️ 🎉\nbetter, faster, airier :)\n\nsoon, it'll be all around us 🤲🏼\n\ntesting these internally is so wondrous, more details here! \nhttps://t.co/8RwEraZqgg https://t.co/JnnSiqa530",
+     "url": "https://x.com/federicovillaw/status/2115510795308081389"
+    },
+    {
+     "date": "2026-10-21T22:24:25.000Z",
+     "id": "2113033693627322833",
+     "kind": "post",
+     "likes": 6,
+     "replies": 0,
+     "reposts": 0,
+     "text": "🛹 https://t.co/5mjlQDuTXe",
+     "url": "https://x.com/federicovillaw/status/2113033693627322833"
+    },
+    {
+     "date": "2026-10-15T11:14:36.000Z",
+     "id": "2110690801915187413",
+     "kind": "post",
+     "likes": 3,
+     "replies": 1,
+     "reposts": 0,
+     "text": "a wonderful job application tracker for those looking for help managing and tracking their applications 👏🏼 https://t.co/0WZ5gQTByy",
+     "url": "https://x.com/federicovillaw/status/2110690801915187413"
+    }
+   ],
+   "look": {
+    "style": "clay",
+    "rig": "hero",
+    "outfit": "tee",
+    "hair": "long",
+    "wear": "none",
+    "glasses": "none",
+    "acc": "none",
+    "prop": "sketch",
+    "aura": "rise",
+    "colors": {
+     "body": "#121317",
+     "trim": "#6f8f2e",
+     "hat": "#8a6a4a",
+     "rib": "#a9c74a",
+     "legs": "#2b2520",
+     "skin": "#dcae88",
+     "hair": "#2a1b12",
+     "shoe": "#6b4a33",
+     "sole": "#a9c74a"
+    },
+    "extras": [
+     "beard"
+    ],
+    "summary": "Glossy soft clay: shoulder-length dark hair, a short beard and a black tee, with sunlit forest-green trim and redwood-bark shoes, a sketchbook in hand, and airy wisps rising around him."
+   },
+   "lookWhy": [
+    {
+     "text": "Shoulder-length dark hair, a short beard and a black tee, straight from his profile photo.",
+     "source": "https://x.com/federicovillaw",
+     "label": "X profile photo"
+    },
+    {
+     "text": "Sunlit forest-green trim and redwood-bark shoes: his X banner looks straight up into tall trees.",
+     "source": "https://x.com/federicovillaw",
+     "label": "X banner"
+    },
+    {
+     "text": "The sketchbook is for the AIDesignFieldGuide interview illustration he loves for “the details of softness we achieved”.",
+     "source": "https://x.com/federicovillaw/status/2107511696374051291",
+     "label": "Illustration post"
+    },
+    {
+     "text": "Airy wisps rising around him: his post saying hello to Gemini Carbon, “better, faster, airier”.",
+     "source": "https://x.com/federicovillaw/status/2115510795308081389",
+     "label": "Gemini Carbon post"
+    }
+   ]
+  },
+  {
+   "name": "chinar j",
+   "handle": "boofreakingyeah",
+   "userId": "714085868969926657",
+   "bio": "User Experience designer, product designer and architect in physical and digital realms by passion and proffesion",
+   "discipline": "UX & Product Designer, Architect",
+   "location": "India",
+   "profileUrl": "https://x.com/boofreakingyeah",
+   "followers": 20,
+   "following": 178,
+   "postCount": 683,
+   "joined": "2016-03-27T13:45:13.000Z",
+   "avatarSrc": "./data/designers/boofreakingyeah/avatar.jpg",
+   "bannerSrc": "./data/designers/boofreakingyeah/banner.jpg",
+   "avatarColors": [
+    "#4c5a71",
+    "#b5b3b1",
+    "#888f9d"
+   ],
+   "bannerColors": [
+    "#4e1909",
+    "#270f04",
+    "#8b5f41"
+   ],
+   "feel": {
+    "mediaStyle": "photos",
+    "mood": [
+     "warm",
+     "calm",
+     "urban"
+    ],
+    "palette": [
+     "#4c5a71",
+     "#b5b3b1",
+     "#888f9d",
+     "#4e1909",
+     "#270f04"
+    ],
+    "shapeLanguage": "architectural",
+    "texture": "flat photo"
+   },
+   "keywords": [
+    "UX",
+    "product design",
+    "architecture"
+   ],
+   "latestPostAt": "2026-10-30T02:05:57.000Z",
+   "admission": "approved: bio 'User Experience designer, product designer and architect', 2026-10-29",
+   "topPosts": [
+    {
+     "id": "2115988547660575224",
+     "text": "@nitin_sauran @kevin_t_ngo @bot Interesting",
+     "url": "https://x.com/boofreakingyeah/status/2115988547660575224",
+     "date": "2026-10-30T02:05:57.000Z",
+     "likes": 0,
+     "reposts": 0,
+     "replies": 0,
+     "kind": "reply"
+    },
+    {
+     "id": "1496825314961661953",
+     "text": "@DougCollinsUX Congratulations.... You saved lot of money ( for client ) 😂",
+     "url": "https://x.com/boofreakingyeah/status/1496825314961661953",
+     "date": "2022-02-24T12:32:19.000Z",
+     "likes": 0,
+     "reposts": 0,
+     "replies": 0,
+     "kind": "reply"
+    }
+   ],
+   "look": {
+    "style": "clay",
+    "rig": "hero",
+    "outfit": "jacket",
+    "hair": "short",
+    "wear": "hardhat",
+    "glasses": "none",
+    "acc": "pencil",
+    "prop": "ui",
+    "aura": "ring",
+    "colors": {
+     "body": "#4c5a71",
+     "trim": "#e8b25a",
+     "hat": "#e8b25a",
+     "rib": "#b5b3b1",
+     "legs": "#2f3644",
+     "skin": "#b98463",
+     "hair": "#1d1814",
+     "shoe": "#8b3a1c",
+     "sole": "#dbd1bd"
+    },
+    "extras": [],
+    "summary": "Glossy soft clay: a dusk-slate jacket with sunset-gold trim, a gold site hard hat and a pencil for the architect, a floating UI panel for the digital realm, and old-brick shoes from a golden-hour street."
+   },
+   "lookWhy": [
+    {
+     "text": "Hard hat in one hand, UI panel in the other: his bio says designer and architect “in physical and digital realms”.",
+     "source": "https://x.com/boofreakingyeah",
+     "label": "X bio"
+    },
+    {
+     "text": "Dusk-slate jacket with a ring around him: his profile photo is a lattice tower against a blue evening sky.",
+     "source": "https://x.com/boofreakingyeah/photo",
+     "label": "X profile photo"
+    },
+    {
+     "text": "Sunset-gold trim and old-brick shoes: his banner is a narrow brick street lit by golden-hour sun.",
+     "source": "https://x.com/boofreakingyeah/header_photo",
+     "label": "X banner"
     }
    ]
   }
