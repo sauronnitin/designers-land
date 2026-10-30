@@ -1,5 +1,5 @@
 {
- "version": "4-02c84019",
+ "version": "5-fad741f8",
  "designers": [
   {
    "name": "Noorullah Jamakzai",
@@ -636,6 +636,151 @@
      "text": "Sunset-gold trim and old-brick shoes: his banner is a narrow brick street lit by golden-hour sun.",
      "source": "https://x.com/boofreakingyeah/header_photo",
      "label": "X banner"
+    }
+   ]
+  },
+  {
+   "name": "Shikha Usgaonker",
+   "handle": "iti226",
+   "userId": "1437522459809370115",
+   "bio": "Product Designer |  0→1 products for startups, simplifying complex systems. Currently designing for Health-tech startup.",
+   "discipline": "Product Designer",
+   "location": "San Francisco, CA",
+   "profileUrl": "https://x.com/iti226",
+   "followers": 20,
+   "postCount": 16,
+   "avatarSrc": "./data/designers/iti226/avatar.jpg",
+   "avatarColors": [
+    "#79b1be",
+    "#afb1ab",
+    "#54463d"
+   ],
+   "feel": {
+    "mediaStyle": "halftone ink portrait; video stills",
+    "mood": [
+     "warm",
+     "playful",
+     "thoughtful",
+     "retro"
+    ],
+    "palette": [
+     "#79b1be",
+     "#afb1ab",
+     "#54463d"
+    ],
+    "shapeLanguage": "hand-drawn ink lines",
+    "texture": "halftone"
+   },
+   "keywords": [
+    "product design",
+    "AI tools",
+    "design"
+   ],
+   "latestPostAt": "2026-10-24T09:05:11.000Z",
+   "topPosts": [
+    {
+     "date": "2026-10-24T09:05:11.000Z",
+     "id": "2113919722949669347",
+     "imageColors": [
+      "#121212",
+      "#eff0ec",
+      "#5a5b5a"
+     ],
+     "imageSrc": "./data/designers/iti226/2113919722949669347.jpg",
+     "kind": "post",
+     "likes": 1,
+     "mediaType": "video",
+     "replies": 0,
+     "reposts": 1,
+     "text": "Started building out portfolio, ended up obsessing over microinteractions! Had fun making this using @claudeai https://t.co/ynmjwXqLyT",
+     "url": "https://x.com/iti226/status/2113919722949669347"
+    },
+    {
+     "date": "2026-10-24T09:00:36.000Z",
+     "id": "2113918571462225989",
+     "kind": "post",
+     "likes": 1,
+     "replies": 2,
+     "reposts": 0,
+     "text": "Starting back out on X. \n\nLooking to connect with fellow designers, discover inspiring design communities, learn from others, and exchange ideas.\n\nIf you’re into product design, UX, AI, or making things better, say hi!",
+     "url": "https://x.com/iti226/status/2113918571462225989"
+    },
+    {
+     "date": "2026-10-24T08:49:59.000Z",
+     "id": "2113915897899593996",
+     "kind": "reply",
+     "likes": 2,
+     "replies": 1,
+     "reposts": 0,
+     "text": "Hey Leonardo, I'm a product designer designing 0-> 1 complex systems. I'm just starting out on X, would love to connect with you! Just followed you.",
+     "url": "https://x.com/iti226/status/2113915897899593996"
+    },
+    {
+     "date": "2022-08-08T20:35:51.000Z",
+     "id": "1556740999631626245",
+     "kind": "reply",
+     "likes": 3,
+     "replies": 1,
+     "reposts": 0,
+     "text": "Yes the designs which have been well thought through systems thinking and strategic foresight make positive impact on the world as they are sustainable set of interactions people can rely on to lead a better vision for the society.",
+     "url": "https://x.com/iti226/status/1556740999631626245"
+    },
+    {
+     "date": "2026-10-24T04:10:12.000Z",
+     "id": "2113845487522701389",
+     "kind": "reply",
+     "likes": 1,
+     "replies": 1,
+     "reposts": 0,
+     "text": "Interestingly, it might actually work for us ADHD folks. Visually making the connection with activities might actually help with Time blindness. Maybe provide a choice of time buffer 😅",
+     "url": "https://x.com/iti226/status/2113845487522701389"
+    }
+   ],
+   "admission": "approved: bio 'Product Designer | 0→1 products for startups, simplifying complex systems.', 2026-10-29",
+   "look": {
+    "style": "wash",
+    "rig": "hero",
+    "outfit": "tee",
+    "hair": "long",
+    "wear": "none",
+    "glasses": "none",
+    "acc": "none",
+    "prop": "ui",
+    "aura": "ring",
+    "colors": {
+     "body": "#f3f0ea",
+     "trim": "#79b1be",
+     "hat": "#e6a6b4",
+     "rib": "#e6a6b4",
+     "legs": "#2a2833",
+     "skin": "#b8846a",
+     "hair": "#1c1416",
+     "shoe": "#f3f0ea",
+     "sole": "#79b1be"
+    },
+    "extras": [],
+    "summary": "Dreamy watercolour wash in teal and rose: long dark hair, a plain white tee, and a soft rose-and-teal double-exposure glow ringing her, with a little 'Get in touch' UI pill she tunes like a microinteraction."
+   },
+   "lookWhy": [
+    {
+     "text": "Long dark hair, a plain white tee and the soft teal backdrop come straight from her profile photo.",
+     "source": "https://x.com/iti226",
+     "label": "X profile photo"
+    },
+    {
+     "text": "The washed-out rose-and-teal ring is the double-exposure blur in that same photo.",
+     "source": "https://x.com/iti226",
+     "label": "X profile photo"
+    },
+    {
+     "text": "The UI pill she holds is the 'Get in touch' button from her portfolio microinteraction she built with Claude.",
+     "source": "https://x.com/iti226/status/2113919722949669347",
+     "label": "Post: microinteractions"
+    },
+    {
+     "text": "Calm, tidy UI prop for her bio: 0→1 products for startups, simplifying complex systems, now in health-tech.",
+     "source": "https://x.com/iti226",
+     "label": "X bio"
     }
    ]
   }
