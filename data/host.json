@@ -31,8 +31,8 @@
   "shapeLanguage": "hand-drawn ink lines",
   "texture": "halftone two inks"
  },
- "followers": 31,
- "following": 84,
+ "followers": 33,
+ "following": 85,
  "handle": "nitin_sauran",
  "joined": "2009-06-22T04:07:44.000Z",
  "keywords": [
@@ -45,10 +45,10 @@
   "design"
  ],
  "latestPostAt": "2026-10-29T22:10:57.000Z",
- "likes": 25,
+ "likes": 34,
  "location": "San Francisco, CA",
  "name": "Nitin Sauran",
- "postCount": 52,
+ "postCount": 60,
  "profileUrl": "https://x.com/nitin_sauran",
  "schema": 1,
  "speech": "I have been tweaking a bit as i am…",
@@ -82,10 +82,10 @@
    ],
    "imageSrc": "./data/media/2115843607760695516.jpg",
    "kind": "post",
-   "likes": 1,
+   "likes": 4,
    "mediaType": "video",
-   "replies": 6,
-   "reposts": 1,
+   "replies": 8,
+   "reposts": 2,
    "text": "Hi X 👋 I'm Nitin, a product designer in SF, looking to connect with more designers.\n\nInspired by @kevin_t_ngo, my @bot built Designers Land 🌍 Reply and you become a character, free to walk around and meet the other designers here.\n\n@bot check this thread every 5 mins 👇 https://t.co/AuusP4GaRt",
    "url": "https://x.com/nitin_sauran/status/2115843607760695516"
   },
@@ -98,6 +98,16 @@
    "reposts": 0,
    "text": "correct the work it did 😅 although in fair honesty, its getting too good. esp Opus 5.5, it just one shot things",
    "url": "https://x.com/nitin_sauran/status/2110490199428067388"
+  },
+  {
+   "date": "2026-10-29T22:50:31.000Z",
+   "id": "2115939365704835328",
+   "kind": "reply",
+   "likes": 1,
+   "replies": 2,
+   "reposts": 0,
+   "text": "i am trying to meet more creative and designers too. Maybe this will help : \nhttps://t.co/Jh7r5UBpRB\nIt needs some boost to get more people",
+   "url": "https://x.com/nitin_sauran/status/2115939365704835328"
   },
   {
    "date": "2026-10-28T15:00:02.000Z",
@@ -118,20 +128,10 @@
    "reposts": 0,
    "text": "Even the lighting and color grading is so Claude",
    "url": "https://x.com/nitin_sauran/status/2115897306004529503"
-  },
-  {
-   "date": "2026-10-29T21:12:44.000Z",
-   "id": "2115914755676541116",
-   "kind": "reply",
-   "likes": 0,
-   "replies": 1,
-   "reposts": 0,
-   "text": "you'll have to wait for the Grok bot limit reset 😂. Not for long , it should be available at 3pm today. Thanks for being patient ✌️",
-   "url": "https://x.com/nitin_sauran/status/2115914755676541116"
   }
  ],
  "userId": "49531792",
- "version": "3cd40a4ff1ad",
+ "version": "5f617624d0a7",
  "website": "https://www.nitinsauran.com",
  "websiteLabel": "nitinsauran.com"
 }
