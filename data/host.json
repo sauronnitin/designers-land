@@ -31,8 +31,8 @@
   "shapeLanguage": "hand-drawn ink lines",
   "texture": "halftone two inks"
  },
- "followers": 37,
- "following": 87,
+ "followers": 38,
+ "following": 89,
  "handle": "nitin_sauran",
  "joined": "2009-06-22T04:07:44.000Z",
  "keywords": [
@@ -48,7 +48,7 @@
  "likes": 36,
  "location": "San Francisco, CA",
  "name": "Nitin Sauran",
- "postCount": 66,
+ "postCount": 67,
  "profileUrl": "https://x.com/nitin_sauran",
  "schema": 1,
  "speech": "restyled my own character in designers…",
@@ -82,9 +82,9 @@
    ],
    "imageSrc": "./data/media/2115843607760695516.jpg",
    "kind": "post",
-   "likes": 6,
+   "likes": 7,
    "mediaType": "video",
-   "replies": 9,
+   "replies": 10,
    "reposts": 2,
    "text": "Hi X 👋 I'm Nitin, a product designer in SF, looking to connect with more designers.\n\nInspired by @kevin_t_ngo, my @bot built Designers Land 🌍 Reply and you become a character, free to walk around and meet the other designers here.\n\n@bot check this thread every 5 mins 👇 https://t.co/AuusP4GaRt",
    "url": "https://x.com/nitin_sauran/status/2115843607760695516"
@@ -139,7 +139,7 @@
   }
  ],
  "userId": "49531792",
- "version": "ec3cea2476d2",
+ "version": "415c7f32aeda",
  "website": "https://www.nitinsauran.com",
  "websiteLabel": "nitinsauran.com"
 }
