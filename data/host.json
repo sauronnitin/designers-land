@@ -45,10 +45,10 @@
   "design"
  ],
  "latestPostAt": "2026-10-31T01:39:04.000Z",
- "likes": 36,
+ "likes": 38,
  "location": "San Francisco, CA",
  "name": "Nitin Sauran",
- "postCount": 68,
+ "postCount": 69,
  "profileUrl": "https://x.com/nitin_sauran",
  "schema": 1,
  "speech": "Designers Land now has sound 🎧",
@@ -139,7 +139,7 @@
   }
  ],
  "userId": "49531792",
- "version": "32c8b0fa34a0",
+ "version": "2362c7aa220b",
  "website": "https://www.nitinsauran.com",
  "websiteLabel": "nitinsauran.com"
 }
