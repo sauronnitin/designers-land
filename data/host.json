@@ -44,14 +44,14 @@
   "San Francisco",
   "design"
  ],
- "latestPostAt": "2026-10-30T18:32:23.000Z",
+ "latestPostAt": "2026-10-31T01:39:04.000Z",
  "likes": 36,
  "location": "San Francisco, CA",
  "name": "Nitin Sauran",
- "postCount": 67,
+ "postCount": 68,
  "profileUrl": "https://x.com/nitin_sauran",
  "schema": 1,
- "speech": "restyled my own character in designers…",
+ "speech": "Designers Land now has sound 🎧",
  "topPosts": [
   {
    "date": "2026-10-13T16:05:00.000Z",
@@ -139,7 +139,7 @@
   }
  ],
  "userId": "49531792",
- "version": "415c7f32aeda",
+ "version": "32c8b0fa34a0",
  "website": "https://www.nitinsauran.com",
  "websiteLabel": "nitinsauran.com"
 }
