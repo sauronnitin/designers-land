@@ -5,7 +5,11 @@
   "#d4f0d2"
  ],
  "avatarSrc": "./data/avatar.jpg",
- "bannerColors": [],
+ "bannerColors": [
+  "#f8ead1",
+  "#6a718c",
+  "#cbbcb1"
+ ],
  "bannerSrc": "./data/banner.jpg",
  "bio": "Product Designer · Music enthusiast\nhttps://t.co/yPfdoe6TfD\nhttps://t.co/syGE1XiX78",
  "discipline": "Product Designer",
@@ -20,12 +24,14 @@
   "palette": [
    "#97e29f",
    "#28338e",
-   "#d4f0d2"
+   "#d4f0d2",
+   "#f8ead1",
+   "#6a718c"
   ],
   "shapeLanguage": "hand-drawn ink lines",
   "texture": "halftone two inks"
  },
- "followers": 39,
+ "followers": 38,
  "following": 89,
  "handle": "nitin_sauran",
  "joined": "2009-06-22T04:07:44.000Z",
@@ -133,7 +139,7 @@
   }
  ],
  "userId": "49531792",
- "version": "19d4a10654fb",
+ "version": "5433d4129e5a",
  "website": "https://www.nitinsauran.com",
  "websiteLabel": "nitinsauran.com"
 }
