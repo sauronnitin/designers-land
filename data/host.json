@@ -5,11 +5,7 @@
   "#d4f0d2"
  ],
  "avatarSrc": "./data/avatar.jpg",
- "bannerColors": [
-  "#f8ead1",
-  "#6a718c",
-  "#cbbcb1"
- ],
+ "bannerColors": [],
  "bannerSrc": "./data/banner.jpg",
  "bio": "Product Designer · Music enthusiast\nhttps://t.co/yPfdoe6TfD\nhttps://t.co/syGE1XiX78",
  "discipline": "Product Designer",
@@ -24,9 +20,7 @@
   "palette": [
    "#97e29f",
    "#28338e",
-   "#d4f0d2",
-   "#f8ead1",
-   "#6a718c"
+   "#d4f0d2"
   ],
   "shapeLanguage": "hand-drawn ink lines",
   "texture": "halftone two inks"
@@ -139,7 +133,7 @@
   }
  ],
  "userId": "49531792",
- "version": "3032069142a2",
+ "version": "19d4a10654fb",
  "website": "https://www.nitinsauran.com",
  "websiteLabel": "nitinsauran.com"
 }
