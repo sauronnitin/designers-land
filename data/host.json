@@ -14,7 +14,7 @@
  "bio": "Product Designer · Music enthusiast\nhttps://t.co/yPfdoe6TfD\nhttps://t.co/syGE1XiX78",
  "discipline": "Product Designer",
  "feel": {
-  "mediaStyle": "halftone ink portrait in two inks; video stills",
+  "mediaStyle": "halftone ink portrait in two inks; photos, video stills",
   "mood": [
    "futuristic",
    "playful",
@@ -45,7 +45,7 @@
   "design"
  ],
  "latestPostAt": "2026-10-31T01:39:04.000Z",
- "likes": 38,
+ "likes": 39,
  "location": "San Francisco, CA",
  "name": "Nitin Sauran",
  "postCount": 69,
@@ -110,24 +110,6 @@
    "url": "https://x.com/nitin_sauran/status/2115939365704835328"
   },
   {
-   "date": "2026-10-29T22:10:57.000Z",
-   "id": "2115929405742891232",
-   "imageColors": [
-    "#67b24d",
-    "#a9bf83",
-    "#e9e1bc",
-    "#717e53"
-   ],
-   "imageSrc": "./data/media/2115929405742891232.jpg",
-   "kind": "post",
-   "likes": 0,
-   "mediaType": "video",
-   "replies": 0,
-   "reposts": 2,
-   "text": "I have been tweaking a bit as i am seeing the results and its getting better at making characters.  much smoother too.  Designers, comment and see yours in 5 mins! https://t.co/Nsd12SUcZ5 https://t.co/e7sN7sgUeg",
-   "url": "https://x.com/nitin_sauran/status/2115929405742891232"
-  },
-  {
    "date": "2026-10-29T20:03:23.000Z",
    "id": "2115897306004529503",
    "kind": "reply",
@@ -136,10 +118,28 @@
    "reposts": 0,
    "text": "Even the lighting and color grading is so Claude",
    "url": "https://x.com/nitin_sauran/status/2115897306004529503"
+  },
+  {
+   "date": "2026-10-30T06:19:32.000Z",
+   "id": "2116052365015163002",
+   "imageColors": [
+    "#67b14f",
+    "#c3a274",
+    "#ded6b6",
+    "#544e45"
+   ],
+   "imageSrc": "./data/media/2116052365015163002.jpg",
+   "kind": "thread",
+   "likes": 1,
+   "mediaType": "photo",
+   "replies": 0,
+   "reposts": 0,
+   "text": "Shikha, a apology from my rendering engine 🙇‍♀️ v1 of you looked like a blurry ghost who lost her glasses. Fixed: clay style, your long dark hair, teal + rose from your photo, a heart-pulse clipboard for health-tech + a dashboard for your microinteractions. https://t.co/3txnj51sTy https://t.co/J9sOsv2Qke",
+   "url": "https://x.com/nitin_sauran/status/2116052365015163002"
   }
  ],
  "userId": "49531792",
- "version": "2362c7aa220b",
+ "version": "5433d4129e5a",
  "website": "https://www.nitinsauran.com",
  "websiteLabel": "nitinsauran.com"
 }
