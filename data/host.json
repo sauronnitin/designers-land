@@ -32,7 +32,7 @@
   "texture": "halftone two inks"
  },
  "followers": 39,
- "following": 89,
+ "following": 90,
  "handle": "nitin_sauran",
  "joined": "2009-06-22T04:07:44.000Z",
  "keywords": [
@@ -44,14 +44,14 @@
   "San Francisco",
   "design"
  ],
- "latestPostAt": "2026-10-31T20:35:27.000Z",
+ "latestPostAt": "2026-11-11T19:45:00.000Z",
  "likes": 43,
  "location": "San Francisco, CA",
  "name": "Nitin Sauran",
- "postCount": 72,
+ "postCount": 75,
  "profileUrl": "https://x.com/nitin_sauran",
  "schema": 1,
- "speech": "Designers Land went spooky for…",
+ "speech": "watched a slime mold documentary and…",
  "topPosts": [
   {
    "date": "2026-10-13T16:05:00.000Z",
@@ -131,7 +131,7 @@
   }
  ],
  "userId": "49531792",
- "version": "a5d0618617aa",
+ "version": "effe3f1dc42d",
  "website": "https://www.nitinsauran.com",
  "websiteLabel": "nitinsauran.com"
 }
