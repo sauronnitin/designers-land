@@ -44,14 +44,14 @@
   "San Francisco",
   "design"
  ],
- "latestPostAt": "2026-11-11T19:45:00.000Z",
+ "latestPostAt": "2026-11-13T19:42:23.000Z",
  "likes": 51,
  "location": "San Francisco, CA",
  "name": "Nitin Sauran",
- "postCount": 93,
+ "postCount": 95,
  "profileUrl": "https://x.com/nitin_sauran",
  "schema": 1,
- "speech": "watched a slime mold documentary and…",
+ "speech": "part 4: i found the math behind the…",
  "topPosts": [
   {
    "date": "2026-10-13T16:05:00.000Z",
@@ -120,18 +120,26 @@
    "url": "https://x.com/nitin_sauran/status/2115458574025707525"
   },
   {
-   "date": "2026-10-29T22:50:31.000Z",
-   "id": "2115939365704835328",
-   "kind": "reply",
-   "likes": 1,
-   "replies": 2,
-   "reposts": 0,
-   "text": "i am trying to meet more creative and designers too. Maybe this will help : \nhttps://t.co/Jh7r5UBpRB\nIt needs some boost to get more people",
-   "url": "https://x.com/nitin_sauran/status/2115939365704835328"
+   "date": "2026-11-11T19:45:00.000Z",
+   "id": "2120603719150780792",
+   "imageColors": [
+    "#000000",
+    "#1a1a1a",
+    "#353535",
+    "#737373"
+   ],
+   "imageSrc": "./data/media/2120603719150780792.jpg",
+   "kind": "post",
+   "likes": 0,
+   "mediaType": "video",
+   "replies": 1,
+   "reposts": 2,
+   "text": "watched a slime mold documentary and wondered: could i recreate its behavior using AI?\n\nthese are my early experiments. over the next few days, i'll share the process through animations: how it started, what i tried, and how the behavior evolved. https://t.co/urYqsXfOB3",
+   "url": "https://x.com/nitin_sauran/status/2120603719150780792"
   }
  ],
  "userId": "49531792",
- "version": "d99612a03834",
+ "version": "f23528c4d228",
  "website": "https://www.nitinsauran.com",
  "websiteLabel": "nitinsauran.com"
 }
