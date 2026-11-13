@@ -32,7 +32,7 @@
   "texture": "halftone two inks"
  },
  "followers": 40,
- "following": 93,
+ "following": 94,
  "handle": "nitin_sauran",
  "joined": "2009-06-22T04:07:44.000Z",
  "keywords": [
@@ -45,10 +45,10 @@
   "design"
  ],
  "latestPostAt": "2026-11-13T19:42:23.000Z",
- "likes": 51,
+ "likes": 52,
  "location": "San Francisco, CA",
  "name": "Nitin Sauran",
- "postCount": 95,
+ "postCount": 98,
  "profileUrl": "https://x.com/nitin_sauran",
  "schema": 1,
  "speech": "part 4: i found the math behind the…",
@@ -139,7 +139,7 @@
   }
  ],
  "userId": "49531792",
- "version": "f23528c4d228",
+ "version": "11b8960572c1",
  "website": "https://www.nitinsauran.com",
  "websiteLabel": "nitinsauran.com"
 }
