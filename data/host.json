@@ -31,8 +31,8 @@
   "shapeLanguage": "hand-drawn ink lines",
   "texture": "halftone two inks"
  },
- "followers": 40,
- "following": 96,
+ "followers": 39,
+ "following": 97,
  "handle": "nitin_sauran",
  "joined": "2009-06-22T04:07:44.000Z",
  "keywords": [
@@ -44,14 +44,14 @@
   "San Francisco",
   "design"
  ],
- "latestPostAt": "2026-11-14T06:30:19.000Z",
- "likes": 54,
+ "latestPostAt": "2026-11-23T18:44:40.000Z",
+ "likes": 57,
  "location": "San Francisco, CA",
  "name": "Nitin Sauran",
- "postCount": 100,
+ "postCount": 106,
  "profileUrl": "https://x.com/nitin_sauran",
  "schema": 1,
- "speech": "only if you are doing it by hand!",
+ "speech": "everyone says ai makes design faster.",
  "topPosts": [
   {
    "date": "2026-10-13T16:05:00.000Z",
@@ -131,7 +131,7 @@
   }
  ],
  "userId": "49531792",
- "version": "d13c755ecd6b",
+ "version": "8c90ade5b450",
  "website": "https://www.nitinsauran.com",
  "websiteLabel": "nitinsauran.com"
 }
