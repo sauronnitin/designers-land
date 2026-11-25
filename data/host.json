@@ -44,14 +44,14 @@
   "San Francisco",
   "design"
  ],
- "latestPostAt": "2026-11-24T17:00:03.000Z",
+ "latestPostAt": "2026-11-25T17:00:03.000Z",
  "likes": 57,
  "location": "San Francisco, CA",
  "name": "Nitin Sauran",
- "postCount": 108,
+ "postCount": 109,
  "profileUrl": "https://x.com/nitin_sauran",
  "schema": 1,
- "speech": "it doesn't move until it smells food.",
+ "speech": "once it smells food, it searches.",
  "topPosts": [
   {
    "date": "2026-10-13T16:05:00.000Z",
@@ -131,7 +131,7 @@
   }
  ],
  "userId": "49531792",
- "version": "d13960cecd71",
+ "version": "7e0894ae2f08",
  "website": "https://www.nitinsauran.com",
  "websiteLabel": "nitinsauran.com"
 }
