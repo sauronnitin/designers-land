@@ -44,14 +44,14 @@
   "San Francisco",
   "design"
  ],
- "latestPostAt": "2026-11-26T17:00:01.000Z",
+ "latestPostAt": "2026-11-27T17:00:01.000Z",
  "likes": 57,
  "location": "San Francisco, CA",
  "name": "Nitin Sauran",
- "postCount": 110,
+ "postCount": 111,
  "profileUrl": "https://x.com/nitin_sauran",
  "schema": 1,
- "speech": "when one vein touches the food…",
+ "speech": "the rules i keep enforcing: slow…",
  "topPosts": [
   {
    "date": "2026-10-13T16:05:00.000Z",
@@ -131,7 +131,7 @@
   }
  ],
  "userId": "49531792",
- "version": "affecf0a0947",
+ "version": "6d1ce83c2d1b",
  "website": "https://www.nitinsauran.com",
  "websiteLabel": "nitinsauran.com"
 }
